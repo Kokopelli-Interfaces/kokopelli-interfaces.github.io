@@ -36,7 +36,7 @@ export default {
 svg {
   path {
     fill: none;
-    stroke: $color-zzc;
+    stroke: $color-kokopelli;
     stroke-width: 5px;
   }
 }
@@ -46,7 +46,7 @@ svg {
   svg {
     path {
       fill: none;
-      stroke: $color-zzc;
+      stroke: $color-kokopelli;
       stroke-width: 5px;
     }
   }

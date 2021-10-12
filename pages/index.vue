@@ -17,8 +17,7 @@ export default {
     ArticlePage
   },
   async asyncData ({ $axios, app, params }) {
-    const locale = app.i18n.locale
-    const path = `/markdown/index.${locale}.md`
+    const path = `/markdown/index.md`
     const markdown = await $axios.$get(path)
     return { markdown }
   },

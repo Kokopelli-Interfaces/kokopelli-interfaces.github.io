@@ -106,7 +106,7 @@ export default {
   }
 
   .md-quote {
-    border-left: 4px solid $color-zzc;
+    border-left: 4px solid $color-kokopelli;
     padding-left: 20px;
     padding-right: 20px;
 

@@ -11,15 +11,11 @@
           main-menu
           .group
             .separator: .dot
-            menu-item(:to='{ name: "index", params: { lang: $i18n.locale } }') {{ $t('menu.all') }}
-            menu-item(:to='{ name: "categorySlug", params: { categorySlug: "free", lang: $i18n.locale } }') {{ $t('menu.free') }}
-            menu-item(:to='{ name: "categorySlug", params: { categorySlug: "paid", lang: $i18n.locale } }') {{ $t('menu.paid') }}
+            menu-item(:to='{ name: "index", params: {} }') {{ $t('menu.all') }}
+            menu-item(:to='{ name: "categorySlug", params: { categorySlug: "free" }}') {{ $t('menu.free') }}
+            menu-item(:to='{ name: "categorySlug", params: { categorySlug: "paid" } }') {{ $t('menu.paid') }}
           .group
             .separator: .dot
-            menu-item(:to='{ params: { lang: "en" } }') En
-            menu-item(:to='{ params: { lang: "ru" } }') Ru
-            //- menu-item(:to='switchLocalePath("en")') En
-            //- menu-item(:to='switchLocalePath("ru")') Ru
           //- .group
           //-   .separator: .dot
           //-   menu-item(to='/about') About
@@ -41,9 +37,7 @@ export default {
     MenuItem,
     ZzcOutline
   },
-  methods: {
-    ...mapMutations('i18n', ['setLanguage'])
-  }
+  methods: {}
 }
 </script>
 

@@ -1,8 +1,8 @@
 {
-  "name": "zzc-docs",
+  "name": "kokopelli-docs",
   "version": "1.0.0",
-  "description": "ZZC Modules Documentation",
-  "author": "Sergey Ukolov",
+  "description": "Kokopelli Modules Documentation",
+  "author": "Michael Muszynski",
   "private": true,
   "scripts": {
     "dev": "HOST=0.0.0.0 nuxt",

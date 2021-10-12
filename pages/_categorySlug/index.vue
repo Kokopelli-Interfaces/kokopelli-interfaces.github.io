@@ -25,8 +25,7 @@ export default {
     ArticlePage
   },
   async asyncData ({ $axios, app, params }) {
-    const locale = app.i18n.locale
-    const path = `/markdown/${params.categorySlug}.${locale}.md`
+    const path = `/markdown/${params.categorySlug}.md`
     const markdown = await $axios.$get(path)
     return {
       markdown,
@@ -35,7 +34,7 @@ export default {
   },
   head () {
     return {
-      title: `ZZC | ${this.category.name[this.$i18n.locale]}`
+      title: `Kokopelli | ${this.category.name}`
     }
   },
   computed: {
@@ -47,7 +46,7 @@ export default {
     crumbs () {
       return [
         { url: this.$route,
-          title: this.category.name[this.$i18n.locale] }
+          title: this.category.name }
       ]
     }
   }

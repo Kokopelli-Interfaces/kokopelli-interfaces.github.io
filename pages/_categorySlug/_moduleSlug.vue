@@ -37,8 +37,7 @@ export default {
     StoreLink
   },
   async asyncData ({ $axios, app, params }) {
-    const locale = app.i18n.locale
-    const path = `/markdown/${params.moduleSlug}/${params.moduleSlug}${locale ? '.' + locale : ''}.md`
+    const path = `/markdown/${params.moduleSlug}/${params.moduleSlug}.md`
     console.log(path)
     const markdown = await $axios.$get(path)
     return { markdown }
@@ -64,8 +63,8 @@ export default {
     },
     rackCrumbs () {
       return [
-        { url: { name: 'categorySlug', params: { categorySlug: this.$route.params.categorySlug, lang: this.$i18n.locale } },
-          title: this.category.name[this.$i18n.locale] }
+        { url: { name: 'categorySlug', params: { categorySlug: this.$route.params.categorySlug } },
+          title: this.category.name }
       ]
     },
     crumbs () {

@@ -1,5 +1,5 @@
 <template lang='pug'>
-nuxt-link.logo(:to='{ name: "index", params: { lang: $i18n.locale } }', title='ZZC')
+nuxt-link.logo(:to='{ name: "index", params: { } }', title='Kokopelli')
   zzc-logo.zzc-logo
 </template>
 

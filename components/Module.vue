@@ -1,5 +1,5 @@
 <template lang='pug'>
-nuxt-link.module(:to='{ name: "categorySlug-moduleSlug", params: { categorySlug: module.category.slug, moduleSlug: module.slug, lang: $i18n.locale } }', :class='{ single }')
+nuxt-link.module(:to='{ name: "categorySlug-moduleSlug", params: { categorySlug: module.category.slug, moduleSlug: module.slug } }', :class='{ single }')
   img.image(:src='`/markdown/${module.slug}/${module.slug}.svg`')
 </template>
 

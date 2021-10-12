@@ -8,14 +8,12 @@
         logo
         menu-item(to='https://github.com/zezic') {{ $t('menu.author') }} • {{ (new Date()).getFullYear() }}
         .row
-          menu-item(:to='{ params: { lang: "en" } }') En
-          menu-item(:to='{ params: { lang: "ru" } }') Ru
         //- menu-item(to='/contact') Contact
         //- menu-item(to='/about') About
       .group.group-2
-        menu-item(:to='{ name: "index", params: { lang: $i18n.locale } }') {{ $t('menu.all') }}
-        menu-item(:to='{ name: "categorySlug", params: { categorySlug: "free", lang: $i18n.locale } }') {{ $t('menu.free') }}
-        menu-item(:to='{ name: "categorySlug", params: { categorySlug: "paid", lang: $i18n.locale } }') {{ $t('menu.paid') }}
+        menu-item(:to='{ name: "index", params: { } }') {{ $t('menu.all') }}
+        menu-item(:to='{ name: "categorySlug", params: { categorySlug: "free" } }') {{ $t('menu.free') }}
+        menu-item(:to='{ name: "categorySlug", params: { categorySlug: "paid" } }') {{ $t('menu.paid') }}
       .group.group-3
         main-menu(:column='true')
 </template>
@@ -44,11 +42,11 @@ export default {
 @import "~/assets/sass/utils.scss";
 
 .site-footer {
-  background-color: $color-zzc;
+  background-color: $color-kokopelli;
   position: relative;
 
   .footer-bg {
-    color: darken($color-zzc, 7%);
+    color: darken($color-kokopelli, 7%);
     overflow: hidden;
     @include stretch;
 

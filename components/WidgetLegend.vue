@@ -145,7 +145,7 @@ export default {
         left: -15px;
         width: 5px;
         height: 100%;
-        background-color: $color-zzc;
+        background-color: $color-kokopelli;
       }
     }
 

@@ -66,7 +66,7 @@ export default {
 
   &:hover {
     background-color: $color-fg;
-    color: $color-zzc;
+    color: $color-kokopelli;
   }
 }
 </style>

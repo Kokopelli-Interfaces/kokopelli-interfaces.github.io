@@ -228,7 +228,7 @@ export default {
       position: absolute;
       left: 0;
       top: 0;
-      // border: 2px solid $color-zzc;
+      // border: 2px solid $color-kokopelli;
       // box-sizing: content-box;
       opacity: 0;
       cursor: pointer;
@@ -240,7 +240,7 @@ export default {
 
       &.active {
         opacity: 1;
-        box-shadow: 0 0 0 2px $color-zzc;
+        box-shadow: 0 0 0 2px $color-kokopelli;
       }
     }
   }

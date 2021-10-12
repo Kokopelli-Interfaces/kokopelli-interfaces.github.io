@@ -5,8 +5,8 @@
     v-if='category.showInMenu',
     :key='category.slug',
     :solid='column',
-    :to='{ name: "categorySlug", params: { categorySlug: category.slug, lang: $i18n.locale } }'
-  ) {{ category.name[$i18n.locale] }}
+    :to='{ name: "categorySlug", params: { categorySlug: category.slug } }'
+  ) {{ category.name }}
     component.icon(:is='category.icon', slot='icon')
   //- menu-item(:solid='column', to='/amps') Amps
   //-   amp(slot='icon')
@@ -48,7 +48,7 @@ export default {
     categories
   }),
   mounted () {
-    console.log('locale:', this.$i18n.locale)
+    console.log('locale:')
   }
 }
 </script>

@@ -6,7 +6,7 @@ module.exports = {
   },
   mode: 'universal',
   head: {
-    title: 'ZZC',
+    title: 'Kokopelli VCV',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -28,7 +28,7 @@ module.exports = {
     '@nuxtjs/pwa',
     'nuxt-svg',
     ['nuxt-i18n-module', {
-      languages: ['en', 'ru']
+      languages: ['en']
     }]
     // ['nuxt-i18n', {
     //   strategy: 'prefix_and_default',
@@ -101,11 +101,10 @@ module.exports = {
   },
   generate: {
     routes: [
-      '/clock-manipulation',
       '/generators',
       '/sequencers',
-      '/clock-manipulation/clock',
-      '/clock-manipulation/divider',
+      '/recorders/circle',
+      '/recorders/divider',
       '/generators/fn-3',
       '/sequencers/phaseque',
       '/free',

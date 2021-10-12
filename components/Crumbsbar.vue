@@ -54,7 +54,7 @@ $color-gray-crumbs-selection: #616464;
     .yellow-line {
       display: block;
       height: 5px;
-      background-color: $color-zzc;
+      background-color: $color-kokopelli;
     }
 
     .crumb:last-of-type {
@@ -63,7 +63,7 @@ $color-gray-crumbs-selection: #616464;
   }
 
   &.theme-yellow {
-    background-color: $color-zzc;
+    background-color: $color-kokopelli;
 
     .crumb:last-of-type {
       background-color: #fff;

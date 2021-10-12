@@ -4,11 +4,11 @@
   ul
     li(v-for='module in modules')
       nuxt-link.module-link(
-        :to='{ name: "categorySlug-moduleSlug", params: { categorySlug: module.category.slug, moduleSlug: module.slug, lang: $i18n.locale } }'
+        :to='{ name: "categorySlug-moduleSlug", params: { categorySlug: module.category.slug, moduleSlug: module.slug } }'
       )
         .name-section
           .module-name {{ module.name }}
-          .module-function {{ module.function[$i18n.locale] }}
+          .module-function {{ module.function }}
         .price-section
           price-label.label
           | {{ module.price ? '$' + module.price : $t('free') }}
