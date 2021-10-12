@@ -25,7 +25,7 @@ export default {
       return modules.find(module => module.slug === this.moduleSlug)
     },
     href () {
-      return this.module.url || `https://library.vcvrack.com/ZZC/${this.module.librarySlug}`
+      return this.module.url || `https://library.vcvrack.com/Kokopelli/${this.module.librarySlug}`
     }
   }
 }

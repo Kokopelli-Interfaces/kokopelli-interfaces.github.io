@@ -1,6 +1,6 @@
-# ZZC Docs
+# Kokopelli Docs
 
-> ZZC Modules Documentation
+> Kokopelli Modules Documentation
 
 ## Build Setup
 

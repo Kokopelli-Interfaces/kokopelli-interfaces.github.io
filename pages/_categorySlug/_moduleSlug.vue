@@ -46,7 +46,7 @@ export default {
   }),
   head () {
     return {
-      title: `ZZC | ${this.module.name}`
+      title: `Kokopelli | ${this.module.name}`
     }
   },
   computed: {
