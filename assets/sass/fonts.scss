@@ -1,4 +1,11 @@
 @font-face {
+  font-family: 'Pegasus';
+  src: url('~assets/fonts/Pegasus/PEGASUS 2.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
   font-family: 'agave';
   src: url('~assets/fonts/agave/agave.woff2') format('woff2'), url('~assets/fonts/agave/agave.woff') format('woff');
   font-weight: normal;

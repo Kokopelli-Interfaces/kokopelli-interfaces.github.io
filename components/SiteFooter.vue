@@ -1,12 +1,12 @@
 <template lang='pug'>
 .site-footer
   .footer-bg
-    zzc-logo.logo
+    kokopelli-logo.logo
   container
     .footer-layout
       .group.group-1
         logo
-        menu-item(to='https://github.com/zezic') {{ $t('menu.author') }} • {{ (new Date()).getFullYear() }}
+        menu-item(to='https://github.com/Kokopelli-Interfaces') {{ $t('menu.author') }} • {{ (new Date()).getFullYear() }}
         .row
         //- menu-item(to='/contact') Contact
         //- menu-item(to='/about') About
@@ -23,15 +23,14 @@ import Container from '~/components/Container'
 import Logo from '~/components/Logo'
 import MainMenu from '~/components/MainMenu'
 import MenuItem from '~/components/MenuItem'
-import ZzcLogo from '~/assets/images/zzc-logo.svg?inline'
+import KokopelliLogo from '~/assets/images/kokopelli-logo.svg?inline'
 
 export default {
   components: {
     Container,
     Logo,
     MainMenu,
-    MenuItem,
-    ZzcLogo
+    MenuItem
   }
 }
 </script>
@@ -52,7 +51,7 @@ export default {
 
     .logo {
       position: absolute;
-      width: 130%;
+      width: 300%;
       left: -40%;
       margin-top: -10%;
 

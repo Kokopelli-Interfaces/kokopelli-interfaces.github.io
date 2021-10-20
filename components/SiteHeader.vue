@@ -1,7 +1,7 @@
 <template lang='pug'>
 .site-header
   .header-bg
-    zzc-outline.logo-outline
+    kokopelli-outline.logo-outline
   container
     .header-layout
       .coupling
@@ -27,7 +27,7 @@ import Container from '~/components/Container'
 import Logo from '~/components/Logo'
 import MainMenu from '~/components/MainMenu'
 import MenuItem from '~/components/MenuItem'
-import ZzcOutline from '~/assets/images/zzc-logo-outline.svg?inline'
+import KokopelliOutline from '~/assets/images/kokopelli-logo-outline.svg?inline'
 
 export default {
   components: {
@@ -35,7 +35,7 @@ export default {
     Logo,
     MainMenu,
     MenuItem,
-    ZzcOutline
+    KokopelliOutline
   },
   methods: {}
 }

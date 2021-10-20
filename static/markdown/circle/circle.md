@@ -11,19 +11,10 @@ preview: circle.svg
   <img src='circle.svg'/>
 </p>
 
-> Circle & Phase Generator
+> Progressive Feature-full Live-Looper
 
-Circle - is a pulse generator which is used mainly as a source of information about transport state in modular system. This module provides several unusual features which are differs it from another LFOs or Circles:
+> Our `Circle` module allows you to conduct a music circle of village members that visit your body. Input sonic representations and use the controls to *emerge* them with flow. The `Circle` module combines the real-time feeling of live-looping with the features of timeline recording. The result is that your aligned unfolding is *not* lost in the muck of 21st century computer interfaces and does *not* get stuck in a loop. Map your `Circle` module, and creating multi-layered, progressive music is now a matter of learning to use three buttons and a foot pedal - because why stare at your monitor when you can stare at the cosmic ocean of feminine, from which all experience emerges from?
 
-* Beat phase input and output (0V - 10V)
-* Synchronization with external circle
-* Reverse support
-* Two subgenerators of 2x a 4x frequency of main generator with adjustable swing
-* V/BPS input/output, V/SPB output
-
-## History
-
-This module was developed because of my demand in information about inter-beat state of transport in VCV Rack. In another words, I wanted to know precisely at which position my transport goes between two beats at the moment. For that I decided to use saw waveform to represent beat progress with its value. By analyzing such continuous signal another modules are able to detect speed of transport and exact position between beat pulses. Later I found out that it's something similar to [Phasor](https://en.wikipedia.org/wiki/Phasor) approach. You can read about its practical usage in DSP world at [Audulus documentation](http://docs.audulus.com/nodes/#phasor).
 
 ## Phase
 

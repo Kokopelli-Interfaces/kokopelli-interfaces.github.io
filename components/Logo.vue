@@ -1,14 +1,14 @@
 <template lang='pug'>
 nuxt-link.logo(:to='{ name: "index", params: { } }', title='Kokopelli')
-  zzc-logo.zzc-logo
+  kokopelli-logo.kokopelli-logo
 </template>
 
 <script>
-import ZzcLogo from '~/assets/images/zzc-logo.svg?inline'
+import KokopelliLogo from '~/assets/images/kokopelli-logo.svg?inline'
 
 export default {
   components: {
-    ZzcLogo
+    KokopelliLogo
   }
 }
 </script>
@@ -20,7 +20,7 @@ export default {
   height: 30px;
   @include center;
 
-  .zzc-logo {
+  .kokopelli-logo {
     vertical-align: top;
   }
 }
