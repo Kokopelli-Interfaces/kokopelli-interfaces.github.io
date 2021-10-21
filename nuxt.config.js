@@ -66,6 +66,7 @@ module.exports = {
   },
   generate: {
     routes: [
+      '/synthesizers',
       '/composition',
       '/composition/circle',
       '/free',
