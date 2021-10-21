@@ -2,43 +2,43 @@ importScripts('/_nuxt/workbox.4c4f5ca6.js')
 
 workbox.precaching.precacheAndRoute([
   {
-    "url": "/_nuxt/12ccf0aff28f54dc61c4.js",
-    "revision": "c02ca50d34c22ac3d13823c6df4e3022"
+    "url": "/_nuxt/5431fdb292e187d5da64.js",
+    "revision": "23ad79b20d2ffe267ea2b16992cd3677"
   },
   {
-    "url": "/_nuxt/2ab838c9a5828219ac15.js",
-    "revision": "01fd03acdf304a508a406eb80f1a8584"
+    "url": "/_nuxt/9faf66d3c8628b37486c.js",
+    "revision": "09357d0cddb795a709aaf9c1a7f30d17"
   },
   {
-    "url": "/_nuxt/2e0c70034c3efc80c7a5.js",
-    "revision": "a2e4e9bb1e5fc530ac7090b876e81293"
+    "url": "/_nuxt/aab0630dad4e8fe0e604.js",
+    "revision": "89f0d09f0150ec4391667aac919e3a39"
   },
   {
-    "url": "/_nuxt/48b278c430940f6ae8a4.js",
-    "revision": "79e729f76ed1d820476e39d21685072c"
+    "url": "/_nuxt/b762db6b2edd298c2ff8.js",
+    "revision": "b80b3d6aa467f64b3463e80acf49d7ba"
   },
   {
-    "url": "/_nuxt/58433dcad9de667f91cf.js",
-    "revision": "aac6b0be435107b3e526d43d00d49a3a"
+    "url": "/_nuxt/bc388119619632bd5f5c.js",
+    "revision": "41972c268093af48e54cb7171489ef8a"
   },
   {
-    "url": "/_nuxt/8270617ecf513df4b258.js",
-    "revision": "f5fa52eeba11c167e91943e28c777af1"
+    "url": "/_nuxt/de6d5bc6f9fd7faa6a2a.js",
+    "revision": "13ecce36d70e55d8c7211a272af253d0"
   },
   {
-    "url": "/_nuxt/8d7c1b8d31ba74d1c26b.js",
-    "revision": "91f51d9b58009e0089d0c623105e4621"
+    "url": "/_nuxt/de998455073585aafa62.js",
+    "revision": "c87c7d3abb7e67e5543a04fc5596fcbc"
   },
   {
-    "url": "/_nuxt/ac484b76459ae027a37a.js",
-    "revision": "f1e867b51a70f0143b17d748508b3eb7"
+    "url": "/_nuxt/e1fc89f67d9aa104d833.js",
+    "revision": "331f49bf2bb264ac1b9c04ad6d250f16"
   },
   {
-    "url": "/_nuxt/bbcf26652327a0d5253a.js",
-    "revision": "7773916812bdcddbcab57dd9f30c514a"
+    "url": "/_nuxt/f686ecf7402fc7535bb3.js",
+    "revision": "bc21d6c98f99e6ecaec186c47ce29ecc"
   }
 ], {
-  "cacheId": "zzc-docs",
+  "cacheId": "kokopelli-docs",
   "directoryIndex": "/",
   "cleanUrls": false
 })
