@@ -36,9 +36,10 @@ export default {
 <style lang='scss' scoped>
 @import "~/assets/sass/breakpoints.scss";
 @import "~/assets/sass/utils.scss";
+@import "~/assets/sass/colors.scss";
 
 .menu-item {
-  color: inherit;
+  color: $color-menu-item;
   font-size: 18px;
   display: flex;
   align-items: center;

@@ -30,41 +30,6 @@ module.exports = {
     ['nuxt-i18n-module', {
       languages: ['en']
     }]
-    // ['nuxt-i18n', {
-    //   strategy: 'prefix_and_default',
-    //   defaultLocale: 'en',
-    //   locales: [
-    //     { code: 'en',
-    //       iso: 'en-US' },
-    //     { code: 'ru',
-    //       iso: 'ru-RU' }
-    //   ],
-    //   vueI18n: {
-    //     fallbackLocale: 'en',
-    //     messages: {
-    //       en: {
-    //         menu: {
-    //           all: 'All',
-    //           free: 'Free',
-    //           paid: 'Paid',
-    //           author: 'Sergey Ukolov'
-    //         },
-    //         relatedModules: 'Related Modules',
-    //         free: 'Free'
-    //       },
-    //       ru: {
-    //         menu: {
-    //           all: 'Все',
-    //           free: 'Бесплатные',
-    //           paid: 'Платные',
-    //           author: 'Сергей Уколов'
-    //         },
-    //         relatedModules: 'Модули по теме',
-    //         free: 'Бесплатно'
-    //       }
-    //     }
-    //   }
-    // } ]
   ],
   axios: {
     browserBaseURL: '/'
@@ -101,12 +66,8 @@ module.exports = {
   },
   generate: {
     routes: [
-      '/generators',
-      '/sequencers',
-      '/recorders/circle',
-      '/recorders/divider',
-      '/generators/fn-3',
-      '/sequencers/phaseque',
+      '/composition',
+      '/composition/circle',
       '/free',
       '/paid'
     ]

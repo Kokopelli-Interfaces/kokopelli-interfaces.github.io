@@ -24,6 +24,7 @@ import Logo from '~/components/Logo'
 import MainMenu from '~/components/MainMenu'
 import MenuItem from '~/components/MenuItem'
 import KokopelliLogo from '~/assets/images/kokopelli-logo.svg?inline'
+import Cave from '~/assets/images/sand-island-petro.svg?inline'
 
 export default {
   components: {
@@ -43,6 +44,7 @@ export default {
 .site-footer {
   background-color: $color-kokopelli;
   position: relative;
+
 
   .footer-bg {
     color: darken($color-kokopelli, 7%);
