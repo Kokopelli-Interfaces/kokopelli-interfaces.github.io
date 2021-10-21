@@ -1,0 +1,31 @@
+[23:7:9.24] Global cache location '/home/michael/.cache/typescript/3.7', safe file path '/home/michael/Dotfiles/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/typingSafeList.json', types map path /home/michael/Dotfiles/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/typesMap.json
+[23:7:9.25] Processing cache location '/home/michael/.cache/typescript/3.7'
+[23:7:9.25] Trying to find '/home/michael/.cache/typescript/3.7/package.json'...
+[23:7:9.25] Loaded content of '/home/michael/.cache/typescript/3.7/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.562"}}
+[23:7:9.25] Loaded content of '/home/michael/.cache/typescript/3.7/package-lock.json'
+[23:7:9.25] Finished processing cache location '/home/michael/.cache/typescript/3.7'
+[23:7:9.25] Process id: 288393
+[23:7:9.25] NPM location: /usr/bin/npm (explicit '--npmLocation' not  provided)
+[23:7:9.25] validateDefaultNpmLocation: false
+[23:7:9.25] Npm config file: /home/michael/.cache/typescript/3.7/package.json
+[23:7:9.25] Updating types-registry npm package...
+[23:7:9.25] Exec: /usr/bin/npm install --ignore-scripts types-registry@latest
+[23:7:9.500]     Succeeded. stdout:
+    
+    up to date, audited 2 packages in 388ms
+
+found 0 vulnerabilities
+
+[23:7:9.500] Updated types-registry npm package
+[23:7:9.792] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/home/michael/Dotfiles/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.d.ts","/home/michael/Dotfiles/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es5.d.ts","/home/michael/Dotfiles/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.d.ts","/home/michael/Dotfiles/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/home/michael/Dotfiles/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/store/index.js"],"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/store","kind":"discover"}
+[23:7:9.805] Loaded safelist from types map file '/home/michael/Dotfiles/.emacs.d/.cache/lsp/npm/typescript/lib/node_modules/typescript/lib/typesMap.json'
+[23:7:9.806] Explicitly included types: []
+[23:7:9.806] Inferred typings from unresolved imports: []
+[23:7:9.806] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/store/bower_components","/home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/store/node_modules"]}
+[23:7:9.806] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/store/bower_components","/home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/store/node_modules"]}
+[23:7:9.807] DirectoryWatcher:: Added:: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/store/bower_components
+[23:7:9.807] DirectoryWatcher:: Added:: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/store/node_modules
+[23:7:9.807] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"target":1,"jsx":1,"allowNonTsExtensions":true,"allowJs":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[23:7:9.808] Response has been sent.
+[23:7:9.808] No new typings were requested as a result of typings discovery

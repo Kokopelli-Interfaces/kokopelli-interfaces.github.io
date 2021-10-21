@@ -1,0 +1,554 @@
+Info 0    [20:52:55.390] Starting TS Server
+Info 1    [20:52:55.390] Version: 3.7.4
+Info 2    [20:52:55.391] Arguments: /usr/bin/node /home/michael/.emacs.d/.cache/lsp/npm/typescript/bin/tsserver --logFile /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/ba7a728f8cf366160210546e6a28966f/tscancellation*
+Info 3    [20:52:55.391] Platform: linux NodeVersion: 16 CaseSensitive: true
+Info 4    [20:52:55.401] Search path: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/lib
+Info 5    [20:52:55.401] For info: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/lib/categories.js :: No config files found.
+Info 6    [20:52:55.404] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 7    [20:52:56.174] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 769.5839009992778ms
+Info 8    [20:52:56.174] Project '/dev/null/inferredProject1*' (Inferred) 
+Info 9    [20:52:56.174] 	Files (10)
+
+Info 10   [20:52:56.174] -----------------------------------------------
+Info 11   [20:53:4.352] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 12   [20:53:4.356] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: false Elapsed: 3.789760999381542ms
+Info 13   [20:53:4.356] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 14   [20:53:6.690] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 15   [20:53:6.692] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 3 structureChanged: false Elapsed: 1.4136580005288124ms
+Info 16   [20:53:6.692] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 17   [20:53:6.692] Structure before ensureProjectForOpenFiles:
+Info 18   [20:53:6.692] Structure after ensureProjectForOpenFiles:
+Info 19   [20:53:6.692] got projects updated in background, updating diagnostics for /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/lib/categories.js
+Info 20   [20:53:7.272] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 21   [20:53:7.275] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 4 structureChanged: false Elapsed: 2.9143319986760616ms
+Info 22   [20:53:7.275] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 23   [20:53:22.479] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 24   [20:53:22.482] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 5 structureChanged: false Elapsed: 2.6864099986851215ms
+Info 25   [20:53:22.482] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 26   [20:53:22.975] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 27   [20:53:22.978] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 6 structureChanged: false Elapsed: 2.5030529983341694ms
+Info 28   [20:53:22.978] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 29   [20:53:23.359] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 30   [20:53:23.360] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 7 structureChanged: false Elapsed: 1.1546870023012161ms
+Info 31   [20:53:23.360] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 32   [20:53:23.936] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 33   [20:53:23.939] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 8 structureChanged: false Elapsed: 2.4081320017576218ms
+Info 34   [20:53:23.939] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 35   [20:53:24.166] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 36   [20:53:24.168] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 9 structureChanged: false Elapsed: 1.77241799980402ms
+Info 37   [20:53:24.168] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 38   [20:53:24.431] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 39   [20:53:24.434] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 10 structureChanged: false Elapsed: 2.4720240011811256ms
+Info 40   [20:53:24.434] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 41   [20:53:31.152] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 42   [20:53:31.154] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 11 structureChanged: false Elapsed: 2.221449002623558ms
+Info 43   [20:53:31.154] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 44   [20:53:36.512] Search path: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io
+Info 45   [20:53:36.512] For info: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/nuxt.config.js :: No config files found.
+Info 46   [20:53:36.513] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 47   [20:53:36.529] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 1 structureChanged: true Elapsed: 16.714657999575138ms
+Info 48   [20:53:36.529] Project '/dev/null/inferredProject2*' (Inferred) 
+Info 49   [20:53:36.529] 	Files (10)
+
+Info 50   [20:53:36.529] -----------------------------------------------
+Info 51   [20:53:38.638] DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.#nuxt.config.js :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 52   [20:53:38.639] Elapsed:: 0.10662200301885605ms DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.#nuxt.config.js :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 53   [20:53:39.285] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 54   [20:53:39.289] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 2 structureChanged: false Elapsed: 3.154908001422882ms
+Info 55   [20:53:39.289] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 56   [20:53:39.670] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 57   [20:53:39.673] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 3 structureChanged: false Elapsed: 3.0873589999973774ms
+Info 58   [20:53:39.673] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 59   [20:53:40.744] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 60   [20:53:40.747] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 4 structureChanged: false Elapsed: 3.14342600107193ms
+Info 61   [20:53:40.747] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 62   [20:53:40.867] DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.#nuxt.config.js :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 63   [20:53:40.867] Elapsed:: 0.012563999742269516ms DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.#nuxt.config.js :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 64   [20:53:40.910] DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 65   [20:53:40.910] Elapsed:: 0.0898200012743473ms DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 66   [20:53:40.910] DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 67   [20:53:40.910] Elapsed:: 0.013334996998310089ms DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 68   [20:53:46.834] Search path: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/lib
+Info 69   [20:53:46.834] For info: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/lib/modules.js :: No config files found.
+Info 70   [20:53:46.834] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 71   [20:53:46.844] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 1 structureChanged: true Elapsed: 9.812430996447802ms
+Info 72   [20:53:46.844] Project '/dev/null/inferredProject3*' (Inferred) 
+Info 73   [20:53:46.844] 	Files (10)
+
+Info 74   [20:53:46.844] -----------------------------------------------
+Info 75   [20:53:53.281] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 76   [20:53:53.283] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 2 structureChanged: false Elapsed: 1.6117630004882812ms
+Info 77   [20:53:53.283] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 78   [20:53:53.735] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 79   [20:53:53.737] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 3 structureChanged: false Elapsed: 2.0302370004355907ms
+Info 80   [20:53:53.737] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 81   [20:53:58.178] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 82   [20:53:58.179] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 4 structureChanged: false Elapsed: 1.0978699997067451ms
+Info 83   [20:53:58.179] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 84   [20:53:58.179] Structure before ensureProjectForOpenFiles:
+Info 85   [20:53:58.179] Structure after ensureProjectForOpenFiles:
+Info 86   [20:53:58.179] got projects updated in background, updating diagnostics for /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/lib/categories.js,/home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/nuxt.config.js,/home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/lib/modules.js
+Info 87   [20:55:25.558] DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 88   [20:55:25.558] Elapsed:: 0.026420000940561295ms DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 89   [20:55:25.558] DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 90   [20:55:25.558] Elapsed:: 0.029785998165607452ms DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 91   [20:55:47.569] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 92   [20:55:47.572] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 5 structureChanged: false Elapsed: 3.3544440008699894ms
+Info 93   [20:55:47.572] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 94   [20:55:51.161] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 95   [20:55:51.164] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 6 structureChanged: false Elapsed: 2.5473459996283054ms
+Info 96   [20:55:51.164] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 97   [20:55:51.496] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 98   [20:55:51.497] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 7 structureChanged: false Elapsed: 1.058694999665022ms
+Info 99   [20:55:51.497] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 100  [20:55:52.194] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 101  [20:55:52.196] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 8 structureChanged: false Elapsed: 2.051004998385906ms
+Info 102  [20:55:52.196] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 103  [20:55:52.530] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 104  [20:55:52.532] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 9 structureChanged: false Elapsed: 1.9728070013225079ms
+Info 105  [20:55:52.532] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 106  [20:55:53.282] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 107  [20:55:53.284] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 10 structureChanged: false Elapsed: 1.9018010012805462ms
+Info 108  [20:55:53.284] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 109  [20:55:53.752] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 110  [20:55:53.754] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 11 structureChanged: false Elapsed: 1.419709999114275ms
+Info 111  [20:55:53.754] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 112  [20:55:53.755] getCompletionData: Get current token: 0.011331003159284592
+Info 113  [20:55:53.755] getCompletionData: Is inside comment: 0.03512699902057648
+Info 114  [20:55:53.755] getCompletionData: Get previous token 1: 0.03392399847507477
+Info 115  [20:55:53.755] getCompletionData: Get previous token 2: 0.027661997824907303
+Info 116  [20:55:53.755] getCompletionsAtPosition: isCompletionListBlocker: 0.17976000159978867
+Info 117  [20:55:53.756] getCompletionData: Get current token: 0.009717997163534164
+Info 118  [20:55:53.756] getCompletionData: Is inside comment: 0.030838999897241592
+Info 119  [20:55:53.756] getCompletionData: Get previous token 1: 0.029897000640630722
+Info 120  [20:55:53.756] getCompletionData: Get previous token 2: 0.02401600033044815
+Info 121  [20:55:53.756] getCompletionsAtPosition: isCompletionListBlocker: 0.002365000545978546
+Info 122  [20:55:53.757] getCompletionData: Get current token: 0.009346999228000641
+Info 123  [20:55:53.757] getCompletionData: Is inside comment: 0.07798799872398376
+Info 124  [20:55:53.757] getCompletionData: Get previous token 1: 0.026799999177455902
+Info 125  [20:55:53.757] getCompletionData: Get previous token 2: 0.024316001683473587
+Info 126  [20:55:53.757] getCompletionsAtPosition: isCompletionListBlocker: 0.0035270005464553833
+Info 127  [20:55:54.88] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 128  [20:55:54.90] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 12 structureChanged: false Elapsed: 1.6385239996016026ms
+Info 129  [20:55:54.90] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 130  [20:55:54.90] getCompletionData: Get current token: 0.007323998957872391
+Info 131  [20:55:54.90] getCompletionData: Is inside comment: 0.03150999918580055
+Info 132  [20:55:54.90] getCompletionData: Get previous token 1: 0.026430003345012665
+Info 133  [20:55:54.91] getCompletionData: Get previous token 2: 0.025037001818418503
+Info 134  [20:55:54.91] getCompletionsAtPosition: isCompletionListBlocker: 0.002514999359846115
+Info 135  [20:55:54.92] getCompletionData: Get current token: 0.007082998752593994
+Info 136  [20:55:54.92] getCompletionData: Is inside comment: 0.031689997762441635
+Info 137  [20:55:54.92] getCompletionData: Get previous token 1: 0.026340000331401825
+Info 138  [20:55:54.92] getCompletionData: Get previous token 2: 0.023954998701810837
+Info 139  [20:55:54.92] getCompletionsAtPosition: isCompletionListBlocker: 0.0016629993915557861
+Info 140  [20:55:54.98] getCompletionData: Get current token: 0.0066919997334480286
+Info 141  [20:55:54.99] getCompletionData: Is inside comment: 0.03004700317978859
+Info 142  [20:55:54.99] getCompletionData: Get previous token 1: 0.02657100185751915
+Info 143  [20:55:54.99] getCompletionData: Get previous token 2: 0.03004699945449829
+Info 144  [20:55:54.99] getCompletionsAtPosition: isCompletionListBlocker: 0.0017830021679401398
+Info 145  [20:55:54.433] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 146  [20:55:54.435] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 13 structureChanged: false Elapsed: 1.3745130002498627ms
+Info 147  [20:55:54.435] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 148  [20:55:54.818] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 149  [20:55:54.819] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 14 structureChanged: false Elapsed: 1.4867560006678104ms
+Info 150  [20:55:54.819] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 151  [20:55:55.744] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 152  [20:55:55.745] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 15 structureChanged: false Elapsed: 1.4909039996564388ms
+Info 153  [20:55:55.745] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 154  [20:55:55.873] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 155  [20:55:55.874] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 16 structureChanged: false Elapsed: 1.4376729987561703ms
+Info 156  [20:55:55.874] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 157  [20:55:56.234] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 158  [20:55:56.235] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 17 structureChanged: false Elapsed: 0.8824420012533665ms
+Info 159  [20:55:56.235] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 160  [20:56:11.267] DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 161  [20:56:11.267] Elapsed:: 0.04039599746465683ms DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 162  [20:56:11.267] DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 163  [20:56:11.267] Elapsed:: 0.012364000082015991ms DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 164  [20:56:24.252] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 165  [20:56:24.253] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 18 structureChanged: false Elapsed: 1.4991389997303486ms
+Info 166  [20:56:24.254] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 167  [20:56:27.321] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 168  [20:56:27.323] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 19 structureChanged: false Elapsed: 1.587687000632286ms
+Info 169  [20:56:27.323] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 170  [20:56:28.410] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 171  [20:56:28.412] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 20 structureChanged: false Elapsed: 1.3882490023970604ms
+Info 172  [20:56:28.412] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 173  [20:56:30.258] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 174  [20:56:30.261] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 21 structureChanged: false Elapsed: 2.408271998167038ms
+Info 175  [20:56:30.261] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 176  [20:56:31.811] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 177  [20:56:31.813] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 22 structureChanged: false Elapsed: 2.1166479997336864ms
+Info 178  [20:56:31.813] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 179  [20:56:33.821] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 180  [20:56:33.822] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 23 structureChanged: false Elapsed: 1.4946109987795353ms
+Info 181  [20:56:33.822] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 182  [20:56:34.442] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 183  [20:56:34.444] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 24 structureChanged: false Elapsed: 2.0996880009770393ms
+Info 184  [20:56:34.444] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 185  [20:56:34.827] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 186  [20:56:34.829] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 25 structureChanged: false Elapsed: 2.0876640006899834ms
+Info 187  [20:56:34.829] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 188  [20:56:39.732] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 189  [20:56:39.734] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 26 structureChanged: false Elapsed: 2.1122509986162186ms
+Info 190  [20:56:39.734] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 191  [20:56:40.548] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 192  [20:56:40.551] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 27 structureChanged: false Elapsed: 3.317995000630617ms
+Info 193  [20:56:40.551] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 194  [20:56:41.385] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 195  [20:56:41.388] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 28 structureChanged: false Elapsed: 2.1356349997222424ms
+Info 196  [20:56:41.388] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 197  [20:56:42.194] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 198  [20:56:42.196] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 29 structureChanged: false Elapsed: 1.8406869992613792ms
+Info 199  [20:56:42.196] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 200  [20:56:47.620] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 201  [20:56:47.622] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 30 structureChanged: false Elapsed: 1.890080001205206ms
+Info 202  [20:56:47.622] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 203  [20:56:48.682] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 204  [20:56:48.683] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 31 structureChanged: false Elapsed: 1.731359001249075ms
+Info 205  [20:56:48.683] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 206  [20:56:49.403] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 207  [20:56:49.404] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 32 structureChanged: false Elapsed: 1.4474320001900196ms
+Info 208  [20:56:49.404] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 209  [20:56:49.803] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 210  [20:56:49.805] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 33 structureChanged: false Elapsed: 1.888908002525568ms
+Info 211  [20:56:49.805] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 212  [20:56:50.234] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 213  [20:56:50.236] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 34 structureChanged: false Elapsed: 1.8969530016183853ms
+Info 214  [20:56:50.237] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 215  [20:56:51.179] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 216  [20:56:51.181] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 35 structureChanged: false Elapsed: 1.8612550012767315ms
+Info 217  [20:56:51.181] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 218  [20:57:0.660] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 219  [20:57:0.662] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 36 structureChanged: false Elapsed: 1.9919530004262924ms
+Info 220  [20:57:0.662] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 221  [20:57:1.622] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 222  [20:57:1.624] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 37 structureChanged: false Elapsed: 1.862737998366356ms
+Info 223  [20:57:1.624] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 224  [20:57:2.540] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 225  [20:57:2.543] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 38 structureChanged: false Elapsed: 2.3338100016117096ms
+Info 226  [20:57:2.543] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 227  [20:57:3.282] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 228  [20:57:3.284] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 39 structureChanged: false Elapsed: 1.9538000002503395ms
+Info 229  [20:57:3.284] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 230  [20:57:4.299] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 231  [20:57:4.301] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 40 structureChanged: false Elapsed: 2.232107002288103ms
+Info 232  [20:57:4.301] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 233  [20:57:20.101] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 234  [20:57:20.103] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 41 structureChanged: false Elapsed: 1.639885999262333ms
+Info 235  [20:57:20.103] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 236  [20:57:21.523] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 237  [20:57:21.525] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 42 structureChanged: false Elapsed: 1.861184999346733ms
+Info 238  [20:57:21.525] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 239  [20:57:21.795] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 240  [20:57:21.797] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 43 structureChanged: false Elapsed: 1.4592639990150928ms
+Info 241  [20:57:21.797] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 242  [20:57:44.846] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 243  [20:57:44.851] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 44 structureChanged: false Elapsed: 4.651459999382496ms
+Info 244  [20:57:44.851] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 245  [20:57:46.52] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 246  [20:57:46.55] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 45 structureChanged: false Elapsed: 2.9242580011487007ms
+Info 247  [20:57:46.55] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 248  [20:57:46.290] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 249  [20:57:46.293] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 46 structureChanged: false Elapsed: 2.534891001880169ms
+Info 250  [20:57:46.293] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 251  [20:57:46.637] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 252  [20:57:46.640] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 47 structureChanged: false Elapsed: 2.1245740018785ms
+Info 253  [20:57:46.640] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 254  [20:57:46.958] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 255  [20:57:46.960] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 48 structureChanged: false Elapsed: 1.6662750020623207ms
+Info 256  [20:57:46.960] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 257  [20:58:10.19] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 258  [20:58:10.21] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 49 structureChanged: false Elapsed: 2.088876999914646ms
+Info 259  [20:58:10.21] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 260  [20:58:10.259] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 261  [20:58:10.261] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 50 structureChanged: false Elapsed: 1.0473029986023903ms
+Info 262  [20:58:10.261] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 263  [20:58:15.405] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 264  [20:58:15.407] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 12 structureChanged: false Elapsed: 1.9930839985609055ms
+Info 265  [20:58:15.407] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 266  [20:58:17.539] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 267  [20:58:17.541] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 13 structureChanged: false Elapsed: 2.3651899993419647ms
+Info 268  [20:58:17.541] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 269  [20:58:18.362] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 270  [20:58:18.364] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 14 structureChanged: false Elapsed: 1.3856539987027645ms
+Info 271  [20:58:18.364] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 272  [20:58:20.590] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 273  [20:58:20.592] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 15 structureChanged: false Elapsed: 1.9525479972362518ms
+Info 274  [20:58:20.592] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 275  [20:58:21.140] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 276  [20:58:21.141] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 16 structureChanged: false Elapsed: 1.4429230019450188ms
+Info 277  [20:58:21.141] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 278  [20:58:21.539] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 279  [20:58:21.540] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 17 structureChanged: false Elapsed: 1.3894819989800453ms
+Info 280  [20:58:21.540] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 281  [20:58:21.788] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 282  [20:58:21.789] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 18 structureChanged: false Elapsed: 1.363051999360323ms
+Info 283  [20:58:21.789] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 284  [20:58:22.676] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 285  [20:58:22.677] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 19 structureChanged: false Elapsed: 1.8733370006084442ms
+Info 286  [20:58:22.677] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 287  [20:58:22.887] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 288  [20:58:22.888] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 20 structureChanged: false Elapsed: 1.3799329996109009ms
+Info 289  [20:58:22.888] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 290  [20:58:23.788] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 291  [20:58:23.792] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 21 structureChanged: false Elapsed: 3.9159469977021217ms
+Info 292  [20:58:23.792] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 293  [20:58:24.868] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 294  [20:58:24.869] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 22 structureChanged: false Elapsed: 1.5675989985466003ms
+Info 295  [20:58:24.869] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 296  [20:58:49.284] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 297  [20:58:49.286] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 23 structureChanged: false Elapsed: 1.7561159990727901ms
+Info 298  [20:58:49.286] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 299  [20:58:58.739] DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.#nuxt.config.js :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 300  [20:58:58.739] Elapsed:: 0.014598000794649124ms DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.#nuxt.config.js :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 301  [20:58:59.852] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 302  [20:58:59.856] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 5 structureChanged: false Elapsed: 3.9153850004076958ms
+Info 303  [20:58:59.856] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 304  [20:59:0.236] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 305  [20:59:0.238] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 6 structureChanged: false Elapsed: 2.3279689997434616ms
+Info 306  [20:59:0.239] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 307  [20:59:0.582] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 308  [20:59:0.585] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 7 structureChanged: false Elapsed: 2.823056001216173ms
+Info 309  [20:59:0.585] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 310  [20:59:0.901] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 311  [20:59:0.905] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 8 structureChanged: false Elapsed: 3.920915998518467ms
+Info 312  [20:59:0.905] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 313  [20:59:2.253] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 314  [20:59:2.256] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 9 structureChanged: false Elapsed: 2.885765001177788ms
+Info 315  [20:59:2.256] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 316  [20:59:2.734] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 317  [20:59:2.739] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 10 structureChanged: false Elapsed: 4.936879001557827ms
+Info 318  [20:59:2.739] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 319  [20:59:4.143] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 320  [20:59:4.146] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 11 structureChanged: false Elapsed: 2.8481040000915527ms
+Info 321  [20:59:4.146] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 322  [20:59:5.111] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 323  [20:59:5.114] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 12 structureChanged: false Elapsed: 2.9587830007076263ms
+Info 324  [20:59:5.114] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 325  [20:59:5.405] Starting updateGraphWorker: Project: /dev/null/inferredProject2*
+Info 326  [20:59:5.408] Finishing updateGraphWorker: Project: /dev/null/inferredProject2* Version: 13 structureChanged: false Elapsed: 2.867401000112295ms
+Info 327  [20:59:5.408] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 328  [20:59:5.437] DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.#nuxt.config.js :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 329  [20:59:5.437] Elapsed:: 0.012192998081445694ms DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.#nuxt.config.js :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 330  [20:59:5.478] DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 331  [20:59:5.478] Elapsed:: 0.0278329998254776ms DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 332  [20:59:5.479] DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 333  [20:59:5.479] Elapsed:: 0.011041000485420227ms DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 334  [21:0:17.628] DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 335  [21:0:17.628] Elapsed:: 0.044534001499414444ms DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 336  [21:0:17.628] DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 337  [21:0:17.628] Elapsed:: 0.026319999247789383ms DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 338  [21:0:41.446] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 339  [21:0:41.447] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 24 structureChanged: false Elapsed: 1.0723110027611256ms
+Info 340  [21:0:41.447] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 341  [21:0:42.240] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 342  [21:0:42.243] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 25 structureChanged: false Elapsed: 3.3521969988942146ms
+Info 343  [21:0:42.243] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 344  [21:0:42.806] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 345  [21:0:42.807] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 26 structureChanged: false Elapsed: 1.2754650004208088ms
+Info 346  [21:0:42.807] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 347  [21:0:50.126] DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 348  [21:0:50.126] Elapsed:: 0.04083799943327904ms DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 349  [21:0:50.126] DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 350  [21:0:50.126] Elapsed:: 0.00955900177359581ms DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 351  [21:0:55.873] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 352  [21:0:55.874] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 27 structureChanged: false Elapsed: 1.7017320021986961ms
+Info 353  [21:0:55.874] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 354  [21:1:10.372] DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 355  [21:1:10.372] Elapsed:: 0.04885200038552284ms DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 356  [21:1:10.372] DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 357  [21:1:10.372] Elapsed:: 0.016200002282857895ms DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 358  [21:1:41.193] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 359  [21:1:41.195] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 51 structureChanged: false Elapsed: 1.3957130014896393ms
+Info 360  [21:1:41.195] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 361  [21:1:41.768] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 362  [21:1:41.770] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 52 structureChanged: false Elapsed: 1.9005989991128445ms
+Info 363  [21:1:41.770] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 364  [21:1:43.27] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 365  [21:1:43.28] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 53 structureChanged: false Elapsed: 1.2420819997787476ms
+Info 366  [21:1:43.28] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 367  [21:1:43.832] Starting updateGraphWorker: Project: /dev/null/inferredProject3*
+Info 368  [21:1:43.843] Finishing updateGraphWorker: Project: /dev/null/inferredProject3* Version: 54 structureChanged: false Elapsed: 11.453487001359463ms
+Info 369  [21:1:43.843] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 370  [21:2:0.961] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 371  [21:2:0.963] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 28 structureChanged: false Elapsed: 1.7138950005173683ms
+Info 372  [21:2:0.963] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 373  [21:2:5.780] DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 374  [21:2:5.780] Elapsed:: 0.054262999445199966ms DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 375  [21:2:5.780] DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 376  [21:2:5.780] Elapsed:: 0.02842399850487709ms DirectoryWatcher:: Triggered with /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io/.nuxt :: WatchInfo: /home/michael/Soft/Kokopelli-Interfaces/kokopelli-vcv.github.io 0 Project: /dev/null/inferredProject2* WatchType: Failed Lookup Locations
+Info 377  [21:2:46.338] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 378  [21:2:46.340] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 29 structureChanged: false Elapsed: 1.6383319981396198ms
+Info 379  [21:2:46.340] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 380  [21:2:46.968] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 381  [21:2:46.970] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 30 structureChanged: false Elapsed: 1.7685890011489391ms
+Info 382  [21:2:46.970] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 383  [21:2:47.289] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 384  [21:2:47.291] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 31 structureChanged: false Elapsed: 1.9508550018072128ms
+Info 385  [21:2:47.291] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 386  [21:2:47.590] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 387  [21:2:47.591] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 32 structureChanged: false Elapsed: 1.2840409986674786ms
+Info 388  [21:2:47.591] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 389  [21:2:47.880] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 390  [21:2:47.882] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 33 structureChanged: false Elapsed: 1.5996480025351048ms
+Info 391  [21:2:47.882] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 392  [21:2:48.337] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 393  [21:2:48.339] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 34 structureChanged: false Elapsed: 1.7835569977760315ms
+Info 394  [21:2:48.339] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 395  [21:2:49.354] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 396  [21:2:49.356] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 35 structureChanged: false Elapsed: 2.4516410008072853ms
+Info 397  [21:2:49.356] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 398  [21:2:59.554] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 399  [21:2:59.556] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 36 structureChanged: false Elapsed: 1.8204769976437092ms
+Info 400  [21:2:59.556] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 401  [21:3:10.955] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 402  [21:3:10.958] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 37 structureChanged: false Elapsed: 2.673801999539137ms
+Info 403  [21:3:10.958] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 404  [21:3:11.746] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 405  [21:3:11.748] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 38 structureChanged: false Elapsed: 2.3248919993638992ms
+Info 406  [21:3:11.748] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 407  [21:3:12.336] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 408  [21:3:12.338] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 39 structureChanged: false Elapsed: 1.8848289996385574ms
+Info 409  [21:3:12.338] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 410  [21:3:12.681] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 411  [21:3:12.682] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 40 structureChanged: false Elapsed: 0.9888820014894009ms
+Info 412  [21:3:12.682] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 413  [21:3:13.681] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 414  [21:3:13.683] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 41 structureChanged: false Elapsed: 1.9553130008280277ms
+Info 415  [21:3:13.683] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 416  [21:3:14.83] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 417  [21:3:14.85] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 42 structureChanged: false Elapsed: 1.5304480008780956ms
+Info 418  [21:3:14.85] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 419  [21:3:15.137] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 420  [21:3:15.139] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 43 structureChanged: false Elapsed: 1.9486400000751019ms
+Info 421  [21:3:15.139] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 422  [21:3:15.459] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 423  [21:3:15.461] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 44 structureChanged: false Elapsed: 1.413587998598814ms
+Info 424  [21:3:15.461] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 425  [21:3:15.810] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 426  [21:3:15.812] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 45 structureChanged: false Elapsed: 1.8164889998733997ms
+Info 427  [21:3:15.812] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 428  [21:3:18.48] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 429  [21:3:18.50] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 46 structureChanged: false Elapsed: 1.935674998909235ms
+Info 430  [21:3:18.50] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 431  [21:3:25.524] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 432  [21:3:25.525] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 47 structureChanged: false Elapsed: 1.3987090028822422ms
+Info 433  [21:3:25.525] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 434  [21:3:26.144] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 435  [21:3:26.146] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 48 structureChanged: false Elapsed: 1.8291739970445633ms
+Info 436  [21:3:26.146] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 437  [21:3:26.467] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 438  [21:3:26.470] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 49 structureChanged: false Elapsed: 2.1407929994165897ms
+Info 439  [21:3:26.470] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 440  [21:3:27.443] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 441  [21:3:27.447] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 50 structureChanged: false Elapsed: 4.0748349986970425ms
+Info 442  [21:3:27.447] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 443  [21:3:28.799] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 444  [21:3:28.801] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 51 structureChanged: false Elapsed: 1.8294440023601055ms
+Info 445  [21:3:28.801] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 446  [21:3:29.24] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 447  [21:3:29.26] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 52 structureChanged: false Elapsed: 1.6525690034031868ms
+Info 448  [21:3:29.26] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 449  [21:3:30.754] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 450  [21:3:30.756] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 53 structureChanged: false Elapsed: 1.9243529997766018ms
+Info 451  [21:3:30.756] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 452  [21:3:57.138] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 453  [21:3:57.139] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 54 structureChanged: false Elapsed: 1.5558260008692741ms
+Info 454  [21:3:57.139] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 455  [21:3:57.420] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 456  [21:3:57.421] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 55 structureChanged: false Elapsed: 1.5751019977033138ms
+Info 457  [21:3:57.422] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 458  [21:4:12.653] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 459  [21:4:12.655] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 56 structureChanged: false Elapsed: 2.24753599986434ms
+Info 460  [21:4:12.655] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 461  [21:4:12.876] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 462  [21:4:12.879] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 57 structureChanged: false Elapsed: 2.666237998753786ms
+Info 463  [21:4:12.879] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 464  [21:4:14.282] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 465  [21:4:14.283] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 58 structureChanged: false Elapsed: 1.2656360007822514ms
+Info 466  [21:4:14.283] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 467  [21:4:14.531] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 468  [21:4:14.532] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 59 structureChanged: false Elapsed: 1.3910930007696152ms
+Info 469  [21:4:14.532] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 470  [21:4:15.947] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 471  [21:4:15.948] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 60 structureChanged: false Elapsed: 1.6558649986982346ms
+Info 472  [21:4:15.948] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 473  [21:4:16.707] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 474  [21:4:16.710] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 61 structureChanged: false Elapsed: 2.539137002080679ms
+Info 475  [21:4:16.710] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 476  [21:4:17.251] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 477  [21:4:17.254] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 62 structureChanged: false Elapsed: 2.204042997211218ms
+Info 478  [21:4:17.254] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 479  [21:4:18.322] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 480  [21:4:18.325] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 63 structureChanged: false Elapsed: 2.576899003237486ms
+Info 481  [21:4:18.325] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 482  [21:4:19.731] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 483  [21:4:19.733] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 64 structureChanged: false Elapsed: 1.9921419993042946ms
+Info 484  [21:4:19.733] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 485  [21:4:28.774] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 486  [21:4:28.775] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 65 structureChanged: false Elapsed: 1.3106919974088669ms
+Info 487  [21:4:28.775] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 488  [21:4:29.37] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 489  [21:4:29.40] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 66 structureChanged: false Elapsed: 3.0339640006422997ms
+Info 490  [21:4:29.40] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 491  [21:4:29.277] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 492  [21:4:29.279] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 67 structureChanged: false Elapsed: 2.055571999400854ms
+Info 493  [21:4:29.279] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 494  [21:4:30.442] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 495  [21:4:30.444] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 68 structureChanged: false Elapsed: 1.7361569963395596ms
+Info 496  [21:4:30.444] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 497  [21:4:30.903] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 498  [21:4:30.904] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 69 structureChanged: false Elapsed: 1.7116000019013882ms
+Info 499  [21:4:30.904] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 500  [21:4:31.147] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 501  [21:4:31.149] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 70 structureChanged: false Elapsed: 2.1947650015354156ms
+Info 502  [21:4:31.149] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 503  [21:4:31.619] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 504  [21:4:31.621] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 71 structureChanged: false Elapsed: 2.133779998868704ms
+Info 505  [21:4:31.621] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 506  [21:4:36.542] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 507  [21:4:36.544] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 72 structureChanged: false Elapsed: 1.7975229993462563ms
+Info 508  [21:4:36.544] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 509  [21:4:42.164] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 510  [21:4:42.165] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 73 structureChanged: false Elapsed: 1.4588520005345345ms
+Info 511  [21:4:42.165] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 512  [21:4:42.642] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 513  [21:4:42.644] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 74 structureChanged: false Elapsed: 1.5509659983217716ms
+Info 514  [21:4:42.644] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 515  [21:4:45.22] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 516  [21:4:45.24] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 75 structureChanged: false Elapsed: 2.874361999332905ms
+Info 517  [21:4:45.25] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 518  [21:4:45.907] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 519  [21:4:45.909] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 76 structureChanged: false Elapsed: 1.6019130013883114ms
+Info 520  [21:4:45.909] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 521  [21:4:46.571] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 522  [21:4:46.573] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 77 structureChanged: false Elapsed: 2.3806769996881485ms
+Info 523  [21:4:46.574] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 524  [21:4:47.307] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 525  [21:4:47.309] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 78 structureChanged: false Elapsed: 1.7504540011286736ms
+Info 526  [21:4:47.309] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 527  [21:4:47.562] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 528  [21:4:47.564] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 79 structureChanged: false Elapsed: 1.2741219997406006ms
+Info 529  [21:4:47.564] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 530  [21:4:54.214] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 531  [21:4:54.215] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 80 structureChanged: false Elapsed: 1.2892509996891022ms
+Info 532  [21:4:54.215] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 533  [21:4:54.868] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 534  [21:4:54.871] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 81 structureChanged: false Elapsed: 2.900111000984907ms
+Info 535  [21:4:54.871] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 536  [21:19:12.13] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 537  [21:19:12.14] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 82 structureChanged: false Elapsed: 1.5307129994034767ms
+Info 538  [21:19:12.14] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 539  [21:22:4.344] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 540  [21:22:4.345] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 83 structureChanged: false Elapsed: 1.229118999093771ms
+Info 541  [21:22:4.345] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 542  [21:22:4.818] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 543  [21:22:4.820] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 84 structureChanged: false Elapsed: 1.3849250003695488ms
+Info 544  [21:22:4.820] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 545  [21:22:16.857] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 546  [21:22:16.858] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 85 structureChanged: false Elapsed: 1.2015170007944107ms
+Info 547  [21:22:16.858] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 548  [21:22:17.817] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 549  [21:22:17.819] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 86 structureChanged: false Elapsed: 1.678031001240015ms
+Info 550  [21:22:17.819] Different program with same set of files:: oldProgram.structureIsReused:: 2
