@@ -1,3 +1,3 @@
-# Kokopelli Music Creation Framework
+# Kokopelli Composition Framework
 
-These modules will provide a music creation framework for VCV Rack. 
+Yes!
