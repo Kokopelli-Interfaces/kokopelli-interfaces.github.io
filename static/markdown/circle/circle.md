@@ -13,9 +13,9 @@ preview: circle.svg
 
 > Progressive Feature-full Live-Looper
 
-> The `Circle` module allows one to conduct a music circle of visiting energies. Input the sound representations, and use the controls to *emerge* them so they play together. 
-
-> Live-loopers are comfortable easily used by the body but they lack the ability to express more than a loop of sounds. Digital-Audio-Workstations can create perfected timelines of sounds, but the mind energy they require takes from creative energy. This dilemma is why `Circle` was created. It allows one to live create a progressive timeline of sounds with three buttons and a foot pedal. Afterwards, one can perfect the playback by passing over again to add, remove, apply audio-fx, and shape volume of layers. If one uses the computer, one can pair `Circle` with the expander modules `Potentiality` and `Emernet`, and re-sequence layers, version, and finely adjust the music with an interactive visual. 
+> The `Circle` module allows one to conduct a music circle of the energies that visit the body. Input the sound representations, and use the controls to *emerge* them so they play together. 
+>
+> Live-loopers are easily used by the body but they lack the ability to express more than a loop of sounds. Digital-Audio-Workstations can create perfected timelines of sounds, but the mind energy they require lives instead of creative energy. This dilemma is why `Circle` was created. It allows one to live-create a progressive timeline of sounds with three buttons and a foot pedal. Afterwards, one can perfect the playback by passing over again to add, remove, apply audio-fx to, and shape the volume of sounds. If one uses the computer, one can pair `Circle` with the expander modules `Potentiality` and `Emernet`, and re-sequence sounds, jump between timeline versions, and finely adjust the music with an interactive visual. 
 
 ## Main Panel
 
