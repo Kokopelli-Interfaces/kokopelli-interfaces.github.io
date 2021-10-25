@@ -13,9 +13,7 @@ preview: circle.svg
 
 > Progressive Feature-full Live-Looper
 
-> The `Circle` module allows one to conduct a music circle of the energies that visit the body. Input the sound representations, and use the controls to *emerge* them so they play together. 
->
-> Live-loopers are easily used by the body but they lack the ability to express more than a loop of sounds. Digital-Audio-Workstations can create perfected timelines of sounds, but the mind energy they require lives instead of creative energy. This dilemma is why `Circle` was created. It allows one to live-create a progressive timeline of sounds with three buttons and a foot pedal. Afterwards, one can perfect the playback by passing over again to add, remove, apply audio-fx to, and shape the volume of sounds. If one uses the computer, one can pair `Circle` with the expander modules `Potentiality` and `Emernet`, and re-sequence sounds, jump between timeline versions, and finely adjust the music with an interactive visual. 
+> Our `Circle` module allows you to conduct a music circle of village members that visit your body. Input the sonic representations of them, and use the controls to *emerge* them with flow. The module combines the real-time feeling of live-looping with the features of timeline recording. The result is that your alignment is *not* lost in the muck of 21st century computer interfaces and does *not* get stuck in a loop. Map your `Circle` module, and creating multi-layered, progressive music is now a matter of learning to use three buttons and a foot pedal - because why stare at your monitor when you can stare at the cosmic ocean from which all experience emerges out of?
 
 ## Main Panel
 
@@ -281,3 +279,12 @@ And this how it looks when transport stops between beats, changes its direction 
 <img align='middle' src='kokopelli-phasor-reverse.svg'/>
 
 ## External Tempo Sources
+
+Circle module support number of synchronization modes.
+
+* External Pulse Source (CLK)
+* External Phase Source (PHASE)
+* External Source of Circle and Phase (CLK + PHASE)
+* External Source of Volts per Beat per Second (V/BPS)
+
+Actual mode is choosen based on the connected inputs. You can see which signals are used for the current synchronization mode by looking at small indicators placed next to the corresponding inputs.

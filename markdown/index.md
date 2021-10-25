@@ -2,6 +2,6 @@
 > Module pack for VCV Rack
 
 
-> At Kokopelli Interfaces, we design interfaces to help one express their body's energies with sound. We help bring the village inside, outside. Whether it be a humming melancholy above the stomach, a chariot of energetic taps conjured by the mind, or a pad glowing to mirror the flames in a heart - we are here to help manifest. These visitors have travelled millenia through ancestral lines, taking form through past and present concert with the universe - they sing with the creative force of life! - and our mission is to make the bringing of them into the external world easier. 
+> "Here at Kokopelli Interfaces.. we work hard to deliver *you* the interfaces you need to express your body's energies. That's right. We help you bring the village inside, outside. The humming melancholy above your stomach the yellow leaves of October stir to life? A chariot of energetic taps the mind conjures? The glowing pads the flames of your heart sing? Whatever it may be, it has come into being through yours and your ancestors concert with the rest of the universe, and we are here to help you manifest them! Designed with the timeless principle - *'as within, so without'* - our interfaces go the extra mile to meet *you* in your experience of music,  so that home stays nearby."
 >
-> In all of our design work, we follow the timeless principle - *'as within, so without'*. We do this because we believe in interfaces that take care to co-exist with one's experience of music. Our dream is for music devices that are expressive *and* welcome one to stay home while using them. Our dream is for music devices that simply say: *'emerge together!'*
+> Kokopelli Interfaces - *because alignment matters.*
