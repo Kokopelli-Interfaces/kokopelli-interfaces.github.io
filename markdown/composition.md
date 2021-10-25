@@ -1,3 +1,1 @@
 # Kokopelli Composition Framework
-
-Yes!
