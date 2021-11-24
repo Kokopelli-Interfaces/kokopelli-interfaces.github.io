@@ -11,11 +11,9 @@ preview: circle.svg
   <img src='circle.svg'/>
 </p>
 
-> Progressive Feature-full Live-Looper
+> Progressive Fractal Live-Looper
 
-> The `Circle` module allows one to conduct a music circle of the energies that visit the body.
-
-> Live-loopers are easily used by the body but they lack the ability to express more than a loop of sounds. Digital-Audio-Workstations can create perfected timelines of sounds, but the mind energy they require lives instead of body energy. `Circle` gets the best of both worlds - it allows one to perfect a timeline of sounds with just three buttons and a foot pedal. No computer usage necessary! With `Circle` you can live-create a timeline of audio, then remove add, remove, apply audio-fx to, shape the volume of, and resequence sounds.
+> Live-loopers are easily used but they lack the ability to express more than a loop of sounds. Digital-Audio-Workstations can create perfected timelines of sounds, but the mind energy they require interrupts music flow. The `Circle` and `Timeline` modules join to create a workflow with the best of both worlds. With `Circle`, one can live-create a timeline of sound with two buttons and a food pedal. With `Timeline`, one can navigate the timeline so to pass over again and add, remove, apply audio-fx to, sequence, and shape the volume of sounds. The result is a novel music workflow based around live-creation which rivals the expressivity of the DAW.
 
 ## Main Panel
 
