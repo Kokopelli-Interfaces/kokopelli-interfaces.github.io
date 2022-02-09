@@ -36,7 +36,7 @@ slug: inputs
   slug: member
   type: labeled-socket
   -->
-  <a name="inputs-member" href='#inputs-member'>Member Voice</a> - the input of the module. The signal is sent through the [volume fader](#controls-volume-fader) and, if [observe](#controls-toggle-join-orchestra) is enabled, it will be down the red line towards Hearth.
+  <a name="inputs-member" href='#inputs-member'>Member Voice</a> - the input of the module. The signal is sent through the [volume fader](#controls-volume-fader) and, if [observe](#controls-toggle-join-music-circle) is enabled, it will be down the red line towards Hearth.
 
 
 <!---
@@ -83,16 +83,16 @@ slug: controls
 * <!---
   x: 10
   y: 52
-  slug: toggle-join-orchestra
+  slug: toggle-join-music-circle
   type: labeled-socket
   -->
-  <a name="controls-toggle-join-orchestra" href='#controls-toggle-join-orchestra'>Toggle Join Orchestra</a> - toggles whether this member is a part of the 'Orchestra' of Hearth, and thus, it toggles whether the member will be recorded when performing changes to the song.
+  <a name="controls-toggle-join-music-circle" href='#controls-toggle-join-music-circle'>Toggle Join music-circle</a> - toggles whether this member is a part of the 'music-circle' of Hearth, and thus, it toggles whether the member will be recorded when performing changes to the song.
 
 
 * <!---
   x: 10
   y: 52
-  slug: toggle-join-orchestra
+  slug: toggle-join-music-circle
   type: labeled-socket
   -->
   <a name="controls-fader" href='#controls-fader'>Member Volume Fader</a>
