@@ -1,12 +1,14 @@
 # The Emergem
-> make music
+> make music & stay alive
 
 
 > The Emergem is a suite of instruments for the live creating and perfecting of music.
 
 <img align='middle' src='user-problem.png'/>
 
-> Similar to a Digital Audio Workstation, the Emergem allows one to capture and emerge audio signals to compose a song. The difference is that it is an *instrument* not a computer workstation - it provides a workflow based in live-creation, without sacrificing a means to perfect the music.
+> Similar to a Digital Audio Workstation, the Emergem allows one to capture and emerge audio signals to compose a song. The difference is that it is an instrument not a computer workstation.
+
+> It provides a workflow for the music creator which is based in live-creation, without sacrificing a means to perfect the music.
 
 > The core of the Emergem is the Hearth module, and the rest of the modules expand this one.
 

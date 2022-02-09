@@ -15,7 +15,7 @@ preview: member.svg
 
 > Member adds another music circle member for Hearth. If this member is [enabled], it's voice will be sent left down the red line, and be included in the new voices of Hearth.
 >
-> The amount of Members tbe Emergem may have is variable. Stack  Members side by side, and you will have yourself an integrated mixer for the Emergem. Get the whole band together! Connect the audio of your instrument to Hearth, a friends electric guitar into a Member,
+> The amount of Members tbe Emergem may have is variable. Stack  Members side by side, and you will have yourself an integrated mixer for the Emergem. Get the whole band together! Connect the audio of your instrument to Hearth, a friends electric guitar into a Member, your drummer buddy's drum mics into another members.. and then co-create a song! No expensive studios required. Use the [volume fader] to set the levels of your music circle members, and engage the Hearth 'change' knob to record a section of music. Afterwards, you can [disengage] certain Members so to configure who to record more of and/or change.
 
 ## Main Panel
 
