@@ -1,0 +1,178 @@
+<!---
+start: affixing
+affixed: blueprint
+blueprint: hearth-blueprint.svg
+preview: hearth.svg
+-->
+
+# Hearth
+
+
+<p align='center' class='md-only'>
+  <img src='hearth-blueprint.svg'/>
+</p>
+
+> Fluid Progressive Live-Looping
+
+> At the core of the (Emergem)[emergem] is 'Hearth'.
+>
+> Hearth provides you with a [music circle](#art-music-circle), and places you in the shoes of a Conductor.
+> As Conductor, you have the power to [observe](#controls-change-observation) voices in the circle, [change] the balance of energy in the circle, and [progress] to new sections.
+
+## Quick Start
+Connect your input signal into the [Orchestra input](#inputs-orchestra).
+
+The audio of this (#inputs-orchestra)
+
+
+What you observe as Conductor is displayed in the [left window](#indicators-conductor), and is changed with the [change-observation button](#controls-change-observation).
+
+
+ and redo certain parts of them. The Conductor can also transform particular voices by dynamically transform them using arbitrary functions like volume, equalization, distortion, delay.
+
+> The conductor does this by moving energy from A to B.
+
+ and record arbitrary transformations such as 'equalize', 'compress', 'distort', 'delay'.
+
+> Live-loopers are easily used but they can't express more than a loop of sounds.
+
+> Digital-Audio-Workstations can create perfected timelines of sounds, but the computer energy they require interrupts music flow.
+
+> The module was made to reflect the human experience in it's art as well as function - the systems of the module which create the song heard are a reflection of the systems which create the song of one's experience.
+
+
+## Main Panel
+
+<!---
+start: legend
+-->
+
+
+<!---
+start: legend-group
+slug: inputs
+-->
+
+### Inputs
+
+* <!---
+  x: 10
+  y: 52
+  slug: orchestra
+  type: labeled-socket
+  -->
+  <a name="inputs-" href='#inputs-vbps'>Orchestra</a> - The input of the module.
+
+    > GREY NERDY HELPER: This is where one connects the input signal the module will capture. It may be the audio from your guitar, the sound of a synthesizer being sequenced.. it may also be a capture of other signal types, such as the pitch of a keyboard.
+
+    > PURPLE MAGICIAN: Other words for 'Orchestra' are 'Nuit, Womb, & the Creative Background of the Universe'
+
+<!---
+end: legend-group
+-->
+
+
+<!---
+start: legend-group
+slug: outputs
+-->
+
+### Outputs
+
+* <!---
+  x: 10
+  y: 52
+  slug: song
+  type: labeled-socket
+  -->
+  <a name="outputs-song" href='#outputs-song'>The Song</a> - the sum of all the voices in the song.
+
+    > This outputs the Song - the entirety of the fractal. Send this to the input of your speakers.
+
+    > Other symbols that reflect the same facet of reality as 'Song', are the Ancient Egyptian God, Hadit, the Sun, and my own word 'The Emernet'. It is the moment of energy the present is - the single, infinitely small grain of universe, ever changing as it flows through the dream of life.
+
+    It is the present sound of the [universal symphony of energy](#indicators-bonsai). -
+
+* <!---
+  x: 10
+  y: 52
+  slug: observation
+  type: labeled-socket
+  -->
+  <a name="outputs-observation" href='#outputs-observation'>The Voices Observed by the Conductor</a> - the summed output of the voices in the song which the conductor is observing.
+
+    > Send this signal through a module and back into the [Orchestra input](#inputs-orchestra), to apply functions (e.g. delay, filter, transpose) to the voices the conductor is observing. Now, turning the [Love control](#controls-love) will move energy from the dry voices to the post-function voices in the song.
+
+    > Other words for 'Conductor' are 'Heru-ra-ha (Ra-Hoor-Khuit?), Spirit, & the Consciousness acting in the Universe.
+
+<!---
+end: legend-group
+-->
+
+<!---
+start: legend-group
+slug: controls
+-->
+
+### Conductor Controls
+* <!---
+  x: 10
+  y: 52
+  slug: love
+  type: labeled-socket
+  -->
+  <a name="controls-love" href='#controls-love'>Change</a> - controls whether energy flows towards the established or the new.
+
+  > Where the love flows, the song goes.
+
+  Where the energy flows, the song goes. The Conductor is the one who, by loving, changes the direction of the Song. He is the
+
+  When this control is engaged, it begins a 'change' which transforms the song by recording the [new voices](#indicators-new), until the knob returns to the rest position.
+
+  Turn to move energy from the [voices in the song currently observed by the conductor](#indicators-observation) to [new voices](#indicators-new).
+
+  When the Love knob is turned right from the rest position, towards the Orchestra, a 'New Conduction' begins, and new voices become a part of the song.
+
+  Turning the knob more will decrease the love to the observed established voices, until only the new voices are heard.
+
+   When the Love returns, recording ends.
+
+    > This is the main output of the emergem suite, and it outputs the created song. Send this to the input of your speakers.
+
+    > The 'Dao'.
+
+    > Other words for 'Song', are 'Hadit, Sun, & Universe.'
+
+<!---
+end: legend-group
+-->
+
+<!---
+start: legend-group
+slug: indicators
+-->
+
+### Art
+
+* <!---
+ x: 10
+ y: 52
+ slug: bonsai
+ type: labeled-socket
+ -->
+ <a name="art-bonsai" href='#art-bonsai'>Dial</a> -
+ > This visual is a symbol for the emernet. A fractal of shadow and light symbolized here as the bonsai tree... It is this universal symphony - and the matter it leaves in it's wake - which we reflect in our hallucinations of stars, roadways, and the apple on a table. What we are in our experience of life. A sound eminates from the flute of life, this sound is Hadit. Nuit is the flute and all it's infinite sonic potential.
+
+
+
+<!---
+end: legend-group
+-->
+
+
+<!---
+end: legend
+-->
+<!---
+end: affixing
+-->

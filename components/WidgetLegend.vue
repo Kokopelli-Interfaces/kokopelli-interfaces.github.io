@@ -26,7 +26,7 @@ import marked from 'marked'
 
 import Spaghetti from '~/components/Spaghetti'
 import MdItem from '~/components/MdItem'
-import NoticeIcon from '~/assets/images/icons/notice.svg?inline'
+import NoticeIcon from '~/assets/images/icons/bulb.svg?inline'
 
 import { widgetRects, parseCustomRect } from '~/lib/widget-rects'
 

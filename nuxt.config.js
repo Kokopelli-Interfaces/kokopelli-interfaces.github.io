@@ -2,7 +2,7 @@ const pkg = require('./package')
 
 module.exports = {
   server: {
-    host: '0.0.0.0'
+    host: 'localhost'
   },
   mode: 'universal',
   head: {
@@ -66,9 +66,10 @@ module.exports = {
   },
   generate: {
     routes: [
-      '/synthesizers',
-      '/composition',
-      '/composition/circle',
+      '/emergem',
+      '/emergem/hearth',
+      '/emergem/aion',
+      '/emergem/member',
       '/free',
       '/paid'
     ]
