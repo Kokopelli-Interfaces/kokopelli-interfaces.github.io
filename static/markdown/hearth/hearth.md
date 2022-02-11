@@ -29,17 +29,17 @@ preview: hearth.svg
 
 ### Create a loop
 
-Connect your audio signal into the [Music Circle input](#inputs-music-circle), and the [Song output](#outputs-song) into your speaker input.
+Connect your audio signal into the [band input](#inputs-band), and the [Song output](#outputs-song) into your speaker input.
 
-Engage the [Change](#controls-change) parameter to start sending love to your audio signal. You are now a music circle member playing in the song - so feel free to sing, strum a lute, or bang some rocks together.
+Engage the [Change](#controls-change) parameter to start sending love to your audio signal. You are now a band member playing in the song - so feel free to sing, strum a lute, or bang some rocks together.
 
-When you are done, return the [Change](#controls-change) parameter to the default position so to send all the love to the Song. You are no longer a music circle member.
+When you are done, return the [Change](#controls-change) parameter to the default position so to send all the love to the Song. You are no longer a band member.
 
-The music circle member you just were was added to the song, and you will hear the audio looping.
+The band member you just were was added to the song, and you will hear the audio looping.
 
 > GRAY NERD HELPER: You can long-press the [progress forward](#controls-progress) button to undo the last addition.
 
-Notice that when the Change returned, the [new member] display was incremented from 1 to 2. This display shows the next NEW members that will be loved, so the next music circle member armed for loving is the second.
+Notice that when the Change returned, the [new member] display was incremented from 1 to 2. This display shows the next NEW members that will be loved, so the next band member armed for loving is the second.
 
 You can repeat these steps to add more members to the song.
 
@@ -83,14 +83,14 @@ slug: inputs
 * <!---
   x: 10
   y: 52
-  slug: music-circle
+  slug: band
   type: labeled-socket
   -->
-  <a name="inputs-" href='#inputs-vbps'>music-circle</a> - The input of the module.
+  <a name="inputs-" href='#inputs-vbps'>band</a> - The input of the module.
 
     > GREY NERDY HELPER: This is where one connects the input signal the module will capture. It may be the audio from your guitar, the sound of a synthesizer being sequenced.. it may also be a capture of other signal types, such as the pitch of a keyboard.
 
-    > PURPLE MAGICIAN: Other words for 'music-circle' are 'Nuit, Womb, & the Creative Background of the Universe'
+    > PURPLE MAGICIAN: Other words for 'band' are 'Nuit, Womb, & the Creative Background of the Universe'
 
 <!---
 end: legend-group
@@ -126,7 +126,7 @@ slug: outputs
   -->
   <a name="outputs-observation" href='#outputs-observation'>The Voices Observed by the Conductor</a> - the summed output of the voices in the song which the conductor is observing.
 
-    > Send this signal through a module and back into the [music-circle input](#inputs-music-circle), to apply functions (e.g. delay, filter, transpose) to the voices the conductor is observing. Now, turning the [Love control](#controls-love) will move energy from the dry voices to the post-function voices in the song.
+    > Send this signal through a module and back into the [band input](#inputs-band), to apply functions (e.g. delay, filter, transpose) to the voices the conductor is observing. Now, turning the [Love control](#controls-love) will move energy from the dry voices to the post-function voices in the song.
 
     > Other words for 'Conductor' are 'Heru-ra-ha (Ra-Hoor-Khuit?), Spirit, & the Consciousness acting in the Universe.
 
@@ -156,7 +156,7 @@ slug: controls
 
   Turn to move energy from the [voices in the song currently observed by the conductor](#indicators-observation) to [new voices](#indicators-new).
 
-  When the Love knob is turned right from the rest position, towards the music-circle, a 'New Conduction' begins, and new voices become a part of the song.
+  When the Love knob is turned right from the rest position, towards the band, a 'New Conduction' begins, and new voices become a part of the song.
 
   Turning the knob more will decrease the love to the observed established voices, until only the new voices are heard.
 
