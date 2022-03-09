@@ -7,12 +7,11 @@ preview: hearth.svg
 
 # Hearth
 
-
 <p align='center' class='md-only'>
   <img src='hearth-blueprint.svg'/>
 </p>
 
-> Fluid Progressive Live Song-Creation
+> Fluid Live Song-Creation
 
 > At the core of the (Emergem)[emergem] is 'Hearth'.
 
@@ -31,9 +30,9 @@ preview: hearth.svg
 
 Connect your audio signal into the [band input](#inputs-band), and the [Song output](#outputs-song) into your speaker input.
 
-Engage the [Change](#controls-change) parameter to start sending love to your audio signal. You are now a band member playing in the song - so feel free to sing, strum a lute, or bang some rocks together.
+Engage the [Change](#controls-change) parameter to start sending love to your creation audio. You are now a band member playing in the song - so feel free to sing, strum a lute, or bang some rocks together.
 
-When you are done, return the [Change](#controls-change) parameter to the default position so to send all the love to the Song. You are no longer a band member.
+When you are done, return the [Change](#controls-change) parameter to the default position so to send all the love to the song. You are no longer a band member.
 
 The band member you just were was added to the song, and you will hear the audio looping.
 
@@ -45,14 +44,17 @@ You can repeat these steps to add more members to the song.
 
 > The periods of new members do not have to be the same as the first member - you could record a new member with 4 times the period as the first one, and the [total period] will adjust.
 
-> Hearth will automatically resize new member capture periods so that all periods are synced - so if your new capture was actually 3.6 or 4.2 times the first member's period, it will round it to 4.
+> Hearth will automatically resize new member periods so that all periods are synced - so if your new capture was actually 3.6 or 4.2 times the first member's period, it will round it to 4.
 
 ### Transform a loop
 
-What you observe as Conductor is displayed in the [left window](#indicators-conductor), and is changed with the [change-observation button](#controls-change-observation).
+So you have a band now! You are now the conductor. What you observe as Conductor is displayed in the [left window](#indicators-conductor), and is changed by setting the [Change](#controls-change) to the rest position, and by pressing the [change-observation button](#controls-change-observation).
 
+> You can long-press the [change-observation button](#controls-change-observation) to _ascend_ and observe more of the song. This reflects becoming a more divine form (a King, a God, a Goddess). By ascending, you see much of the song of your body and your conductor flows in observation of your whole.
 
- and redo certain parts of them. The Conductor can also transform particular voices by dynamically transform them using arbitrary functions like volume, equalization, distortion, delay.
+The [Change](#controls-change) parameter changes what you observe as conductor. You will notice if you twist this all the way, you will move all the energy away from the observed song and you will only hear the new signals of the band.
+
+The Conductor can also transform particular voices by dynamically transform them using arbitrary functions like volume, equalization, distortion, delay.
 
 > The conductor does this by moving energy from A to B.
 
