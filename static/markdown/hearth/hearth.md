@@ -30,7 +30,7 @@ preview: hearth.svg
 
 Connect your audio signal into the [band input](#inputs-band), and the [Song output](#outputs-song) into your speaker input.
 
-Engage the [Change](#controls-change) parameter to start sending love to your creation audio. You are now a band member playing in the song - so feel free to sing, strum a lute, or bang some rocks together.
+Engage the [Change](#controls-change) knob to begin a transformation - this will start sending love to the new signals created by the band. You are now a band member playing in the song - so feel free to sing, strum a lute, or bang some rocks together.
 
 When you are done, return the [Change](#controls-change) parameter to the default position so to send all the love to the song. You are no longer a band member.
 
@@ -48,11 +48,19 @@ You can repeat these steps to add more members to the song.
 
 ### Transform a loop
 
-So you have a band now! You are now the conductor. What you observe as Conductor is displayed in the [left window](#indicators-conductor), and is changed by setting the [Change](#controls-change) to the rest position, and by pressing the [change-observation button](#controls-change-observation).
+So you have a song now! You are a conductor for this song. What you observe as Conductor is displayed in the [left window](#indicators-conductor), and is changed by setting the [Change](#controls-change) to the rest position, and by pressing the [change-observation button](#controls-change-observation).
 
-> You can long-press the [change-observation button](#controls-change-observation) to _ascend_ and observe more of the song. This reflects becoming a more divine form (a King, a God, a Goddess). By ascending, you see much of the song of your body and your conductor flows in observation of your whole.
+> You can long-press the [change-observation button](#controls-change-observation) to _ascend_ and observe more of the song. This reflects becoming a more divine form (a King, a God, a Goddess). By ascending, you see more of the song of your body and your conductor flows in observation of your whole.
 
-The [Change](#controls-change) parameter changes what you observe as conductor. You will notice if you twist this all the way, you will move all the energy away from the observed song and you will only hear the new signals of the band.
+Remember that when the [Change](#controls-change) parameter is engaged, the song begins a transformation of the song.
+
+What you observe as conductor. This is
+
+You will notice if you twist this all the way, you will move all the energy away from the observed song and you will only hear the new signals of the band.
+
+> 'What your love shows, grows.'
+
+>
 
 The Conductor can also transform particular voices by dynamically transform them using arbitrary functions like volume, equalization, distortion, delay.
 
